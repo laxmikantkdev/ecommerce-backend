@@ -1,4 +1,4 @@
-# Retail E-Commerce Backend (Practice Project)
+# Retail E-Commerce Backend 
 
 Small Spring Boot project created for practice and interview preparation.
 
